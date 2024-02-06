@@ -50,4 +50,4 @@ jobs:
             - name: Meuh
               uses: mscoutermarsh/cowsays-action@master
               with:
-                text: 'Mon super message'
+                  text: 'Mon super message'
