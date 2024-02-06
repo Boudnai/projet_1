@@ -48,6 +48,6 @@ jobs:
             runs-on: ubuntu-latest
             steps:
             - name: Meuh
-            uses: mscoutermarsh/cowsays-action@master
-            with:
-            text: 'Mon super message'
+              uses: mscoutermarsh/cowsays-action@master
+              with:
+              text: 'Mon super message'
